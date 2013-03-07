@@ -5,7 +5,7 @@ Select the picture from android  default album
 
 License
 =================
-Copyright (C) 2012 yueyueniao
+Copyright (C) 2013 yueyueniao
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
